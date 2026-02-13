@@ -41,6 +41,14 @@
 
 ---
 
+## 👾 Pacman Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MohamedDTamerr/MohamedDTamerr/output/pacman.gif" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
