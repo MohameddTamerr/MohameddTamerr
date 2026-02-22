@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tamer</h1>
-<h3 align="center">CS Student at AAST • Founder of EasyApp • Ai Engineer</h3>
-
-
----
+<h3 align="center">CS Student at AAST • Founder of EasyApp • AI Engineer</h3>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedDTamerr&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MohamedDTamerr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedDTamerr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedDTamerr&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 👾 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MohamedDTamerr/MohamedDTamerr/output/pacman-dark.gif" />
+</p>
 
 ---
 
@@ -38,20 +50,4 @@
 <a href="https://buymeacoffee.com/mohameddtamerr">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
-</p>
-
----
-
-## 👾 Pacman Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MohamedDTamerr/MohamedDTamerr/output/pacman-dark.gif" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedDTamerr&theme=tokyonight&hide_border=true"/>
 </p>
