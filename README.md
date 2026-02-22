@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tamer</h1>
-<h3 align="center">CS Student at AAST • Founder of EasyApp • Backend Developer</h3>
+<h3 align="center">CS Student at AAST • Founder of EasyApp • Ai Engineer</h3>
 
-<p align="center">
-🚀 Passionate about Backend Development, Data Science, and Building Real Systems
-</p>
 
 ---
 
