@@ -9,6 +9,7 @@
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedDTamerr&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedDTamerr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🔥 Contribution Activity
@@ -19,10 +20,10 @@
 
 ---
 
-## 👾 Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MohamedDTamerr/MohamedDTamerr/output/pacman-dark.gif" />
+<img src="https://raw.githubusercontent.com/MohamedDTamerr/MohamedDTamerr/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
