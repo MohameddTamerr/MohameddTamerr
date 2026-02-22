@@ -4,11 +4,15 @@
 
 ---
 
-## 🧰 Tech Stack
+---
+
+## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,r,flutter,html,css,tailwind,bootstrap,mysql,tensorflow,docker,git,github,bash&perline=9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedDTamerr&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ---
 
