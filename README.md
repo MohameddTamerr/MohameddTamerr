@@ -20,10 +20,10 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MohamedDTamerr/MohamedDTamerr/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://ghchart.rshah.org/00f5d4/MohamedDTamerr" alt="MohamedDTamerr contribution graph"/>
 </p>
 
 ---
