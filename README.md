@@ -1,49 +1,94 @@
-<h3 data-importer="text" align="center">Hi 👋! My name is Mohamed Tamer <br> I'm a CS Student at AAST • Founder of EasyApp • AI Engineer from Egypt</h3>
+<div align="center">
 
-###
+# Hey, I'm Mohamed 👋
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MohameddTamerr/MohameddTamerr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MohameddTamerr/MohameddTamerr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+### AI / ML Engineer × Software Engineer
+
+**I build intelligent ideas into real software.**
+
+Computer Science @ **AASTMT** · Cairo, Egypt
+
+<a href="https://mohameddtamerr.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-18181B?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mohamed-t-73960b2a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/MohameddTamerr?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/GitHub-My_Projects-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlzcGdqb2YwZGsxZ3h6b3drMDI2cnVpaGs0YTZpcXFzdGIzNmtsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
+### 👾 A little game before you scroll
 
-###
+**Choose one box. Can you find the hidden 🏆?**  
+*(Click a box to reveal it. No scripts, no extra websites.)*
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<details>
+<summary>📦 Box 1</summary>
+<br>
+
+🧩 Nice try — just a few bugs hiding here.
+
+</details>
+
+<details>
+<summary>📦 Box 2</summary>
+<br>
+
+🏆 **You found it!** Welcome to my GitHub.
+
+</details>
+
+<details>
+<summary>📦 Box 3</summary>
+<br>
+
+☕ Coffee. The developer's secret power-up.
+
+</details>
+
+---
+
+### 💻 What I'm building
+
+| Project | The idea |
+|:--|:--|
+| 📝 [Arabic Academic Plagiarism Detector](https://github.com/MohameddTamerr/arabic-academic-plagiarism-detector) | Offline Arabic document similarity and explainable matching. |
+| 🧠 [CoNLL-2003 NER Comparison](https://github.com/MohameddTamerr/conll2003-ner-comparison) | Comparing 5 NER approaches; best validation entity-level F1: **81.96%**. |
+| ⚙️ [Mini MapReduce Engine](https://github.com/MohameddTamerr/mini-mapreduce-engine) | Building and visualizing the MapReduce pipeline. |
+
+<details>
+<summary><b>🧪 Bonus round: Can you predict this Python output?</b></summary>
+
+```python
+x = [1, 2, 3]
+print(x[::-1])
+```
+
+<details>
+<summary>🔓 Reveal answer</summary>
+
+```text
+[3, 2, 1]
+```
+
+`[::-1]` reverses the list.
+
+</details>
+</details>
+
+---
+
+### 🛠️ My tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,cpp,js,ts,react,nextjs,flask,docker,git&perline=6" alt="Python, PyTorch, scikit-learn, Java, C++, JavaScript, TypeScript, React, Next.js, Flask, Docker and Git" />
 </div>
 
-###
+<br>
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+
+**Build. Break. Learn. Improve. Repeat.**
+
+[↗ More projects](https://github.com/MohameddTamerr?tab=repositories) · [↗ Portfolio](https://mohameddtamerr.github.io/)
+
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/MohameddTamerr/MohameddTamerr/snake-output/snake.svg" alt="Snake animation" />
-
-###
